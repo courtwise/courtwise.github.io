@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Courts on CourtWise</title>
+    <link>https://courtwise.in/court/</link>
+    <description>Recent content in Courts on CourtWise</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://courtwise.in/court/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>All Supreme Court and High Courts related matters</title>
+      <link>https://courtwise.in/court/court/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://courtwise.in/court/court/</guid>
+      <description>&lt;p&gt;Information related to all Supreme Court and High Courts related matters.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Constitutional Cases</title>
+      <link>https://courtwise.in/court/constitution/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://courtwise.in/court/constitution/</guid>
+      <description>&lt;p&gt;Information related to Constitutional Cases.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Special Leave Petition (SLP)</title>
+      <link>https://courtwise.in/court/slp/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://courtwise.in/court/slp/</guid>
+      <description>&lt;p&gt;Information related to Special Leave Petition (SLP).&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Civil, Criminals Appeals, and Revisions</title>
+      <link>https://courtwise.in/court/civil_criminal/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://courtwise.in/court/civil_criminal/</guid>
+      <description>&lt;p&gt;Information related to Civil, Criminals Appeals, and Revisions.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Public Interest Litigations (PIL)</title>
+      <link>https://courtwise.in/court/pil/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://courtwise.in/court/pil/</guid>
+      <description>&lt;p&gt;Information related to Public Interest Litigations (PIL).&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
