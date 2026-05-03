@@ -4,197 +4,93 @@
     <title>Expertises on CourtWise</title>
     <link>https://courtwise.in/expertise/</link>
     <description>Recent content in Expertises on CourtWise</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://courtwise.in/expertise/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 May 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://courtwise.in/expertise/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Supreme Court and High Courts</title>
-      <link>https://courtwise.in/expertise/court/</link>
-      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://courtwise.in/expertise/court/</guid>
-      <description>&lt;p&gt;We deal with all kind of matters before the Honourable High Courts and the Honourable Supreme Court.&lt;/p&gt;</description>
+      <title>Criminal Matters</title>
+      <link>https://courtwise.in/expertise/criminal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://courtwise.in/expertise/criminal/</guid>
+      <description>&lt;p&gt;FIR matters, bail, anticipatory bail, trials, discharge, quashing petitions, revisions, appeals, and related proceedings.&lt;/p&gt;</description>
     </item>
-    
-    <item>
-      <title>Court Marriages</title>
-      <link>https://courtwise.in/expertise/marriage/</link>
-      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://courtwise.in/expertise/marriage/</guid>
-      <description>&lt;p&gt;You arrange a partner and we get you legally married.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Family Settlements</title>
-      <link>https://courtwise.in/expertise/family/</link>
-      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://courtwise.in/expertise/family/</guid>
-      <description>&lt;p&gt;Perfect Family settlements - Yes we make our clients reach them.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Will</title>
-      <link>https://courtwise.in/expertise/will/</link>
-      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://courtwise.in/expertise/will/</guid>
-      <description>&lt;p&gt;Make hay while the sun shines. So just pen it down now. You still have time!&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Matrimonial Disputes</title>
-      <link>https://courtwise.in/expertise/matrimonial/</link>
-      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://courtwise.in/expertise/matrimonial/</guid>
-      <description>&lt;p&gt;Guiding you through the complexities of matrimonial disputes with compassion and expertise.&lt;/p&gt;</description>
-    </item>
-    
     <item>
       <title>Property Disputes</title>
       <link>https://courtwise.in/expertise/property/</link>
       <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://courtwise.in/expertise/property/</guid>
-      <description>&lt;p&gt;All kinds of property disputes settled.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Title, partition, possession, injunction, mutation, encroachment, tenancy, and property disputes.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Bails and Anticipatory Bails</title>
-      <link>https://courtwise.in/expertise/bail/</link>
+      <title>Wills, Succession and Estate Matters</title>
+      <link>https://courtwise.in/expertise/will/</link>
       <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://courtwise.in/expertise/bail/</guid>
-      <description>&lt;p&gt;Defending your freedom with expertise and urgency - securing them is our top priority.&lt;/p&gt;</description>
+      <guid>https://courtwise.in/expertise/will/</guid>
+      <description>&lt;p&gt;Wills, succession, succession certificates, inheritance disputes, and estate documentation.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Domestic Violence</title>
-      <link>https://courtwise.in/expertise/domestic_violence/</link>
+      <title>Matrimonial and Family Disputes</title>
+      <link>https://courtwise.in/expertise/matrimonial/</link>
       <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://courtwise.in/expertise/domestic_violence/</guid>
-      <description>&lt;p&gt;Against you or for you, we are there to contest it.&lt;/p&gt;</description>
+      <guid>https://courtwise.in/expertise/matrimonial/</guid>
+      <description>&lt;p&gt;Divorce, maintenance, child custody, domestic violence, dowry matters, settlements, and family court proceedings.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Marriage Counselling</title>
-      <link>https://courtwise.in/expertise/counselling/</link>
+      <title>Court Marriages and Legal Formalities</title>
+      <link>https://courtwise.in/expertise/marriage/</link>
       <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://courtwise.in/expertise/counselling/</guid>
-      <description>&lt;p&gt;A marriage counsellor can be helpful at times when you don&amp;rsquo;t see a way out. Just make a full hearted one last attempt. Involve an expert.&lt;/p&gt;</description>
+      <guid>https://courtwise.in/expertise/marriage/</guid>
+      <description>&lt;p&gt;Court marriage, marriage registration, documentation, affidavits, and related legal formalities.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Consumer Cases (at Lucknow)</title>
-      <link>https://courtwise.in/expertise/consumer/</link>
-      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://courtwise.in/expertise/consumer/</guid>
-      <description>&lt;p&gt;Best lawyers at the State Consumer Disputes Redressal Commission, (SCDRC) at Lucknow.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Adoption</title>
-      <link>https://courtwise.in/expertise/adoption/</link>
-      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://courtwise.in/expertise/adoption/</guid>
-      <description>&lt;p&gt;Create a family beyond biological ties by embracing the gift of adoption.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Public Interest Litigations (PIL)</title>
-      <link>https://courtwise.in/expertise/pil/</link>
-      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://courtwise.in/expertise/pil/</guid>
-      <description>&lt;p&gt;Representative litigation for protecting the rights of those, who are still bound by limitations.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>FIR and Criminal Complaints</title>
-      <link>https://courtwise.in/expertise/fir/</link>
-      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://courtwise.in/expertise/fir/</guid>
-      <description>&lt;p&gt;Defending your rights with unwavering resolve: Our expertise in handling F.I.Rs and criminal complaints.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Restitution of Conjugal Rights</title>
-      <link>https://courtwise.in/expertise/restitution/</link>
-      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://courtwise.in/expertise/restitution/</guid>
-      <description>&lt;p&gt;Reuniting hearts through legal recourse: Our commitment to restoring conjugal rights.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Mutual Divorce</title>
-      <link>https://courtwise.in/expertise/divorce/</link>
-      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://courtwise.in/expertise/divorce/</guid>
-      <description>&lt;p&gt;If it&amp;rsquo;s not working out, we can help people in parting ways.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Section 498A of the Indian Penal Code</title>
-      <link>https://courtwise.in/expertise/section498a/</link>
-      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://courtwise.in/expertise/section498a/</guid>
-      <description>&lt;p&gt;Provides seeks to prevent cruelty against a married woman by her husband or his relatives.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Section 125 - Code of Criminal Procedure</title>
-      <link>https://courtwise.in/expertise/section125/</link>
-      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://courtwise.in/expertise/section125/</guid>
-      <description>&lt;p&gt;Court can order for maintenance of wives, children and parents, if any person neglects or refuses to do so.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Criminal Cases and Criminal Trials</title>
-      <link>https://courtwise.in/expertise/criminal/</link>
-      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://courtwise.in/expertise/criminal/</guid>
-      <description>&lt;p&gt;Standing by your side, in and out of court: Our expert guidance for all criminal matters that inspires confidence.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Section 138 Negotiable Instrument Act</title>
-      <link>https://courtwise.in/expertise/section138/</link>
-      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://courtwise.in/expertise/section138/</guid>
-      <description>&lt;p&gt;Ensuring your financial security: Our expertise in cheque bouncing cases helps you recover what&amp;rsquo;s rightfully yours.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Service Matters</title>
+      <title>Service and Employment Matters</title>
       <link>https://courtwise.in/expertise/service/</link>
       <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://courtwise.in/expertise/service/</guid>
-      <description>&lt;p&gt;Advocating for your workplace rights and defending them against the system: Our expertise in service cases protects your interests.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Termination, suspension, departmental enquiries, promotion, seniority, transfer, service benefits, pensionary claims, recruitment disputes, and writ petitions.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Legal Opinion</title>
+      <title>Consumer Protection and Consumer Cases</title>
+      <link>https://courtwise.in/expertise/consumer/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://courtwise.in/expertise/consumer/</guid>
+      <description>&lt;p&gt;Defective products, deficient services, refund claims, insurance disputes, banking disputes, real estate complaints, e-commerce disputes, and consumer cases.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Company, Commercial and Tender Matters</title>
+      <link>https://courtwise.in/expertise/company_commercial/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://courtwise.in/expertise/company_commercial/</guid>
+      <description>&lt;p&gt;Company disputes, commercial claims, contract enforcement, tender challenges, blacklisting, recovery matters, arbitration, and business disputes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>GST, Income Tax and Taxation Matters</title>
+      <link>https://courtwise.in/expertise/taxation/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://courtwise.in/expertise/taxation/</guid>
+      <description>&lt;p&gt;GST, income tax, notices, assessment orders, appeals, recovery proceedings, demand disputes, refund claims, penalties, and tax litigation.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>All Supreme Court and High Court Matters</title>
+      <link>https://courtwise.in/expertise/court/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://courtwise.in/expertise/court/</guid>
+      <description>&lt;p&gt;Writ petitions, appeals, revisions, special leave petitions, constitutional remedies, and litigation before High Courts and the Supreme Court.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Public Interest Litigation (PIL)</title>
+      <link>https://courtwise.in/expertise/pil/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://courtwise.in/expertise/pil/</guid>
+      <description>&lt;p&gt;Public rights, civic grievances, environmental issues, illegal encroachments, administrative inaction, public welfare, and constitutional remedies.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Legal Opinion and Drafting</title>
       <link>https://courtwise.in/expertise/opinion/</link>
       <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://courtwise.in/expertise/opinion/</guid>
-      <description>&lt;p&gt;Discuss with us, mail us the documents and have the best legal opinion.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Legal opinions, notices, replies, representations, agreements, affidavits, petitions, applications, pleadings, contracts, and legal documents.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
