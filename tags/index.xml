@@ -4,7 +4,8 @@
     <title>Tags on CourtWise</title>
     <link>https://courtwise.in/tags/</link>
     <description>Recent content in Tags on CourtWise</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://courtwise.in/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://courtwise.in/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
